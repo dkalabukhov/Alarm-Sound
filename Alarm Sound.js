@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Sound Alarm
-// @description  Plays a sound when the vote starts. The voting tab has to opened.
+// @description  Plays a sound when the vote starts. The voting tab has to be opened.
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @match        https://www.chess.com/computer-chess-championship
